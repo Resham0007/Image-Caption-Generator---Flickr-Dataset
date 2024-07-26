@@ -1,5 +1,5 @@
 # Image-Caption-Generator---Flickr-Dataset
-Git repo for Image Caption Generator - Flickr Dataset
+Welcome to the Image Caption Generator project! This repository provides a comprehensive guide to generating descriptive captions for images using deep learning techniques with the Flickr dataset.
 # Image Caption Generator - Flickr Dataset
 
 # Project Information
